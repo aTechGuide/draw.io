@@ -1,1 +1,49 @@
-<mxfile modified="2019-01-21T04:54:11.524Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36" etag="u7359xcyOD1AXcsBW0pN" version="10.1.2" type="github"><diagram id="939f1020-2e68-7eb5-df72-1603bb6e559f" name="Page-1">7VhRb5swEP41SNvDpmCIQx5J0nYvkyb1YeujAw6gkpgZJyH79TPYBtsQKWvJ2qrNA7G/O5/P5+/OGMdbbqs7ior0O4lx7oBJXDneygHAdecT/lcjJ4nMJ65AEprFEuuA++wPlqAcmOyzGJeGIiMkZ1lhghHZ7XDEDAxRSo6m2obk5qwFSnAPuI9Q3kd/ZjFLBRqAWYd/w1mSqpldOBeSNYoeE0r2OzmfA7xN8xPiLVK25ELLFMXkqEHejeMtKSFMtLbVEud1cFXYxLjbM9LWb4p37JIBQAw4oHyPlccw50MXRb1/GW1A+HtfO7SgLO86vJXI/2ZAWaCdja1tYEO4X3zZ7CRDrazVgi9lQ4SQKwBQVANTrQInXDqruRMETXtWPxegQaZ8mAJ515dgrQA1Zbd5zpVDPDTCJ9NPDvd859jQGjlc2Ng/B6+d7FPjtmcvQTgfhmqNoQqFtXzeUAuUFtqALJSCFrpw1TxvTbXzITiznwL7/LSYasEDBjVAk0e4ZqrLxcc0Y/i+QFEtPfLCw7GUbXMp3mR5viQ5EUH3YoSDTVTTklHyiDUJjAK83rTz6bki0+eAKcOVBsncucNkixk9cRUpBROZx8euSgBfYqlWIaDEkCxMSWuqS07ekPk5nKtwvFwdhbOjJrwLhxNeS4MrZeyIpON1HkSDpIvhGk7hOKTzFcHU6Qr7JLwWB2fvnIP8OXeb9o2smR+sFFIPvhwrg1fGyrdG7fbw779D8banvUm5H3xXR/8FVTi4Et/nZ/keZ4fx3kXHIlnLoVDjFnz222KLGYt+c0RyLymc3nWI1HqrM8mKIN7FYX2l5r0oR2WZRWbQ2ivshHd4GOjpV935OlXdByWrMqaJeO9Bmqjbq0pTW51k52x8GaIJZkY64Ni61JdkTyOsXXT7e6DFeDqQrAqjOEcsO5jmhwIvZ/hBsiZl1Nlo1Qp764SjcpB+W7fsuBPTTvsZQRkSUekZamjQrvoyZgx9Gfj/zDi7/729NSkRDFLipfbf9wMzxb2nEsC1CGAbGpEA3psmwOx1EWBqEcB/KgGARQDb0IgE8F8FAZ55NsB3czZ4FjOmYzGDd7sP0kK9++zv3fwF</diagram></mxfile>
+<mxfile modified="2020-03-14T16:16:34.860Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="SpjI9C_BpUEOIIsevmMV" version="12.8.5" type="github">
+  <diagram id="939f1020-2e68-7eb5-df72-1603bb6e559f" name="Page-1">
+    <mxGraphModel dx="1186" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="&lt;p dir=&quot;rtl&quot;&gt;&lt;span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;جوازم المضارع&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;rtl&quot;&gt;&lt;b&gt;(كلمات تجزم فعلاً واحداً&lt;/b&gt;&lt;b&gt;&lt;font&gt;)&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="200" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="&lt;p dir=&quot;rtl&quot;&gt;&lt;/p&gt;&lt;p dir=&quot;rtl&quot;&gt;&lt;span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;لم&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="440" y="160" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="&lt;p dir=&quot;rtl&quot;&gt;&lt;/p&gt;&lt;p dir=&quot;rtl&quot;&gt;&lt;span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;لمَّا&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="380" y="160" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="&lt;p dir=&quot;rtl&quot;&gt;&lt;/p&gt;&lt;p dir=&quot;rtl&quot;&gt;&lt;/p&gt;&lt;p dir=&quot;rtl&quot;&gt;&lt;span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;لام الأمر&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="280" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="&lt;p dir=&quot;rtl&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;لا الناهية&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="160" y="160" width="83" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="" style="endArrow=classic;html=1;shadow=0;entryX=0.5;entryY=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2" target="9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="60" as="sourcePoint" />
+            <mxPoint x="100" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22" value="" style="endArrow=classic;html=1;shadow=0;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" parent="1" source="2" target="8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="448" y="130" as="sourcePoint" />
+            <mxPoint x="110" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" value="" style="endArrow=classic;html=1;shadow=0;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" parent="1" source="2" target="7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="458" y="140" as="sourcePoint" />
+            <mxPoint x="120" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" value="" style="endArrow=classic;html=1;shadow=0;entryX=0.5;entryY=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2" target="6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="60" as="sourcePoint" />
+            <mxPoint x="130" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
