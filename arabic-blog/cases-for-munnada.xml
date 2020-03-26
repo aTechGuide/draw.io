@@ -1,1 +1,64 @@
-<mxfile userAgent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" version="9.1.2" editor="www.draw.io" type="github"><diagram id="975069dd-ac0d-bdae-13ea-694a50be181c" name="Page-1">7ZrLcqM4FIafhmW6EJiLl7aTzixmqroqi+leyiCDugExQo7tefqRQAIkIE0S2+mucRYE/bqi8+mcQ4jlbvLjI4Vl+heJUWY5dny03HvLcQBY2vyXUE6NEtiLRkgojmWjTnjC/yIpyn7JHseo0hoyQjKGS12MSFGgiGkapJQc9GY7kumzljBBA+EpgtlQ/RvHLG3U0LM7/Q+Ek1TNDGxZs4XRj4SSfSHnsxx3V/801TlUY8n2VQpjcuhJ7oPlbighrLnLjxuUib1V29b0+zxR266booLN6eA0HZ5htkdqxX7Gu65Tp2vm/7MXC1qzU4mqO7K7SyHd3RU4hl0dv0vE7w2suOXEnlMuwbzkWrGtyqZJPfRWtbXuQ2sVWPdLK1zUV6+++krn18+1slRd+ZN0vTtNLFaJ9baykzJlbQwkngPw6kOKGXoqYSRqDxxe8aQsz2T1jhRM0gh8UcZZtiEZfxQxlhtDFO4irleMkh+oV+NHIdru2vn7BpA2eUaUoWNPkgZ5RCRHjJ54E1nr+hIOeXhCWTx0JDoLqaU9ClU3KOFP2pE7APiNZGCch8UkD6U4zphqPFCWDQFQHaoSFqb2Jsvborheao0F1i8SMTb7T1bUrgLUEwK5itfPw+XyKjzuwghFozxuQ2/BvdVZeFzoOLblHo/AGeFxcQYevREejQ1FRbwSLp+XogxWFY5e3kN0xOwrL9ifPFn6JlvyLaInUQU+2WCphG91WxsESviCKOYPgsRW20OjIBB7KBgzytIPXOi/ZJSK7GmENNfMIE0Q004nirXoNTRczzLeiGGURlEGGX7WY96YteQMXwjm6225aB2TBAOYDqh5GtmrH4TMgQyH59jGQM0eDAaq4WkfexZP/qR/i/GzeY4/0uVdwrv59dXtebfGu7Zrceqq5j5UK2qavdMJtpq2zb+9a2xJfck3jsXqc/jG4P/Mslej6vcWAm6QjkMahDMgtS8E6fKaAfz1kbgN+XKwNuC/MkobIVkP28D/0DC9NMJ08MYwbb6XOG54qTCt/g5w5bxvBILrJXfBL5XcuUZkA+FbkzvT+zgXS+7ACCR8N59kkVCWkoQUMHvo1HXnz22dH8UL6NHSA+RrH56u7jti7CSxg3tGuNTN+ych5QSds6hZDKmZ+0owG4e5jh3cUulbKn3GLMWdk6VcKpUG4Q3mIcy8uKqrVrLqRvh7CPfM/GmM8PBShF8gET9vuj2dn03uvZZkhxOZ+CDt+rCUyrA/MO06OxEPTJAulog7V03EP+79rU+S/2sl4oaxgfcbUONMhlMBgzCB+uSrQiaYjp5bDTfVSgx01wyz4g0cUB6HQ2gfI+1XRVrMg5S9onDLcXbsRwrzHNKfhLbm4SYCFo8STD8YOtYFKZBxBqQEM5wU4nRxkMVXh7WIOTiC2UpW5DiO65eZsTCov+BMBK2RczKdqTk6SG25dyBaX/fOOMaL3cfwhsTuPw7ch/8A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-03-26T16:18:52.079Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" version="12.8.5" etag="16BQVx0OYO62ED1WM0W-" type="github">
+  <diagram id="975069dd-ac0d-bdae-13ea-694a50be181c" name="Page-1">
+    <mxGraphModel dx="1186" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="&lt;h2 id=&quot;types-of-harf-nida&quot;&gt;Cases for&amp;nbsp;&lt;b&gt;المنادى&lt;/b&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="360" y="80" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="&lt;p dir=&quot;rtl&quot;&gt;&lt;span&gt;&lt;b&gt;المنادى علم &lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;b&gt;مفرد&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="40" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="endArrow=classic;html=1;fontSize=16;exitX=0.5;exitY=1;entryX=1.019;entryY=0.017;entryPerimeter=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="2" target="4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="160" as="sourcePoint" />
+            <mxPoint x="260" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" value="&lt;div&gt;&lt;p dir=&quot;rtl&quot;&gt;&lt;span&gt;&lt;b&gt;المنادى &lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;b&gt;نكرة مقصودة&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="200" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="&lt;p dir=&quot;rtl&quot;&gt;&lt;b&gt;المنادى شبيه بالمضاف&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="800" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="" style="endArrow=classic;html=1;fontSize=16;exitX=0.5;exitY=1;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=0.5;entryY=0;" parent="1" source="2" target="16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="170" as="sourcePoint" />
+            <mxPoint x="360" y="238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="" style="endArrow=classic;html=1;fontSize=16;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="2" target="7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="180" as="sourcePoint" />
+            <mxPoint x="280" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=1;entryY=0.5;jettySize=auto;orthogonalLoop=1;fontSize=16;" parent="1" source="4" target="4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="&lt;p dir=&quot;rtl&quot;&gt;&lt;b&gt;المنادى&amp;nbsp;&lt;/b&gt;&lt;b&gt;نكرة غير مقصودة&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="400" y="240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="&lt;p dir=&quot;rtl&quot;&gt;&lt;b&gt;المنادى&amp;nbsp;&lt;/b&gt;&lt;b&gt;مضاف&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="640" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="" style="endArrow=classic;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" parent="1" source="2" target="18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="140" as="sourcePoint" />
+            <mxPoint x="370" y="248" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="" style="endArrow=classic;html=1;fontSize=16;exitX=0.5;exitY=1;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=0.5;entryY=0;" parent="1" source="2" target="6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="150" as="sourcePoint" />
+            <mxPoint x="370" y="248" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 21px&quot;&gt;Cases for المنادى in Arabic Grammar&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="320" width="360" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
