@@ -1,0 +1,123 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="cSwm-bjFqKF7OIcFh5Bn">
+    <mxGraphModel dx="1904" dy="1339" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="1300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sLWDrf7MBII8XvQavuru-1" value="User (Kamran)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=22;fillColor=none;fontColor=#FF3399;strokeColor=#006EAF;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="69" y="219" width="196" height="862" as="geometry" />
+        </mxCell>
+        <mxCell id="sLWDrf7MBII8XvQavuru-2" value="LinkedIn App" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=22;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=none;fontColor=#FF3399;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="569" y="219" width="150" height="862" as="geometry" />
+        </mxCell>
+        <mxCell id="sLWDrf7MBII8XvQavuru-3" value="Google Authentication Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=22;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=none;fontColor=#FF3399;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="999" y="219" width="233" height="862" as="geometry" />
+        </mxCell>
+        <mxCell id="sLWDrf7MBII8XvQavuru-4" value="Clicks &quot;Sign in with Google&quot;" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;shadow=0;flowAnimation=1;" edge="1" parent="1" source="sLWDrf7MBII8XvQavuru-1" target="sLWDrf7MBII8XvQavuru-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="322" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sLWDrf7MBII8XvQavuru-5" value="Redirect to Google Login" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;flowAnimation=1;" edge="1" parent="1" source="sLWDrf7MBII8XvQavuru-2" target="sLWDrf7MBII8XvQavuru-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="751" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sLWDrf7MBII8XvQavuru-6" value="Display Google Login Page" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;shadow=0;flowAnimation=1;" edge="1" parent="1" source="sLWDrf7MBII8XvQavuru-3" target="sLWDrf7MBII8XvQavuru-1">
+          <mxGeometry x="0.4817" y="-19" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="566" y="418" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sLWDrf7MBII8XvQavuru-7" value="Enter Google Credentials" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;flowAnimation=1;" edge="1" parent="1" source="sLWDrf7MBII8XvQavuru-1" target="sLWDrf7MBII8XvQavuru-3">
+          <mxGeometry x="0.3725" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="466" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sLWDrf7MBII8XvQavuru-8" value="Authenticate User" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=8 8;endArrow=block;fontSize=22;shadow=0;flowAnimation=1;" edge="1" parent="1" source="sLWDrf7MBII8XvQavuru-3" target="sLWDrf7MBII8XvQavuru-1">
+          <mxGeometry x="0.4576" y="-5" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="566" y="514" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sLWDrf7MBII8XvQavuru-9" value="Show Permission Consent Screen" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;shadow=0;flowAnimation=1;" edge="1" parent="1" source="sLWDrf7MBII8XvQavuru-3" target="sLWDrf7MBII8XvQavuru-1">
+          <mxGeometry x="0.476" y="-11" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="566" y="562" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sLWDrf7MBII8XvQavuru-10" value="Click &quot;Allow&quot;" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;shadow=0;flowAnimation=1;" edge="1" parent="1" source="sLWDrf7MBII8XvQavuru-1" target="sLWDrf7MBII8XvQavuru-3">
+          <mxGeometry x="0.4729" y="8" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="610" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sLWDrf7MBII8XvQavuru-11" value="Send Authorization Code" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;shadow=0;flowAnimation=1;" edge="1" parent="1" source="sLWDrf7MBII8XvQavuru-3" target="sLWDrf7MBII8XvQavuru-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="754" y="658" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sLWDrf7MBII8XvQavuru-12" value="Request Access Token (using Auth Code)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;shadow=0;flowAnimation=1;" edge="1" parent="1" source="sLWDrf7MBII8XvQavuru-2" target="sLWDrf7MBII8XvQavuru-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="751" y="706" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sLWDrf7MBII8XvQavuru-13" value="Provide Access Token" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=8 8;endArrow=block;fontSize=22;shadow=0;flowAnimation=1;" edge="1" parent="1" source="sLWDrf7MBII8XvQavuru-3" target="sLWDrf7MBII8XvQavuru-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="754" y="754" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sLWDrf7MBII8XvQavuru-14" value="Fetch User Profile Information (using token)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;shadow=0;flowAnimation=1;" edge="1" parent="1" source="sLWDrf7MBII8XvQavuru-2" target="sLWDrf7MBII8XvQavuru-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="751" y="802" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sLWDrf7MBII8XvQavuru-15" value="Return User Details" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=8 8;endArrow=block;fontSize=22;shadow=0;flowAnimation=1;" edge="1" parent="1" source="sLWDrf7MBII8XvQavuru-3" target="sLWDrf7MBII8XvQavuru-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="754" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sLWDrf7MBII8XvQavuru-16" value="Create/Link User Account" style="curved=1;endArrow=block;rounded=0;fontSize=16;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="sLWDrf7MBII8XvQavuru-2" target="sLWDrf7MBII8XvQavuru-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="928" />
+              <mxPoint x="650" y="898" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sLWDrf7MBII8XvQavuru-17" value="Login Successful &amp; Redirect to Dashboard" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=12 12;endArrow=block;fontSize=22;shadow=0;flowAnimation=1;" edge="1" parent="1" source="sLWDrf7MBII8XvQavuru-2" target="sLWDrf7MBII8XvQavuru-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="423" y="976" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

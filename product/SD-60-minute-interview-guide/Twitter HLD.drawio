@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15" version="26.2.14">
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
   <diagram name="Page-1" id="GGs35e0VlsxCk_njE4iw">
-    <mxGraphModel dx="1161" dy="1692" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="800" background="light-dark(#000000,#000000)" math="0" shadow="0">
+    <mxGraphModel dx="948" dy="625" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="800" background="light-dark(#000000,#000000)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9h7DVhOhPWusx6ebFW5_-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#1ba1e2;fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#006EAF;fontSize=22;" parent="1" vertex="1">
+        <mxCell id="9h7DVhOhPWusx6ebFW5_-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#1ba1e2;fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#006EAF;fontSize=22;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="78" y="289" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9h7DVhOhPWusx6ebFW5_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="9h7DVhOhPWusx6ebFW5_-4" target="9h7DVhOhPWusx6ebFW5_-11" edge="1">
@@ -63,31 +63,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NfebT7gcMNEabRyaZSAc-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9h7DVhOhPWusx6ebFW5_-13" target="NfebT7gcMNEabRyaZSAc-5">
+        <mxCell id="NfebT7gcMNEabRyaZSAc-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="9h7DVhOhPWusx6ebFW5_-13" target="NfebT7gcMNEabRyaZSAc-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9h7DVhOhPWusx6ebFW5_-13" value="User Service" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;fontColor=light-dark(#000000,#FFFFFF);labelBackgroundColor=none;fontSize=22;spacingTop=3;image=img/lib/ibm/applications/microservice.svg;horizontal=1;imageBackground=none;" parent="1" vertex="1">
           <mxGeometry x="598" y="159" width="123.3" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NfebT7gcMNEabRyaZSAc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9h7DVhOhPWusx6ebFW5_-14" target="NfebT7gcMNEabRyaZSAc-7">
+        <mxCell id="NfebT7gcMNEabRyaZSAc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="9h7DVhOhPWusx6ebFW5_-14" target="NfebT7gcMNEabRyaZSAc-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9h7DVhOhPWusx6ebFW5_-14" value="Tweet Service" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=light-dark(#000000,#FFFFFF);labelBackgroundColor=none;fontSize=22;spacingTop=3;image=img/lib/ibm/applications/microservice.svg;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="598" y="355" width="123.3" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NfebT7gcMNEabRyaZSAc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9h7DVhOhPWusx6ebFW5_-15" target="NfebT7gcMNEabRyaZSAc-8">
+        <mxCell id="NfebT7gcMNEabRyaZSAc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="9h7DVhOhPWusx6ebFW5_-15" target="NfebT7gcMNEabRyaZSAc-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9h7DVhOhPWusx6ebFW5_-15" value="Timeline Service" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=light-dark(#000000,#FFFFFF);labelBackgroundColor=none;fontSize=22;spacingTop=3;image=img/lib/ibm/applications/microservice.svg;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="597" y="551" width="123.3" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NfebT7gcMNEabRyaZSAc-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" vertex="1" parent="1">
+        <mxCell id="NfebT7gcMNEabRyaZSAc-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="817" y="155" width="80" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="NfebT7gcMNEabRyaZSAc-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" vertex="1" parent="1">
+        <mxCell id="NfebT7gcMNEabRyaZSAc-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" parent="1" vertex="1">
           <mxGeometry x="824" y="351" width="80" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="NfebT7gcMNEabRyaZSAc-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" vertex="1" parent="1">
+        <mxCell id="NfebT7gcMNEabRyaZSAc-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" parent="1" vertex="1">
           <mxGeometry x="826" y="547" width="80" height="98" as="geometry" />
         </mxCell>
       </root>
