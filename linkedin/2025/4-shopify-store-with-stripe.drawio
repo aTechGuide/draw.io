@@ -142,7 +142,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5miELfbbJMKruTsYyYmL-27" value="18. Payment failed&#xa; event" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=50;shape=flexArrow;strokeColor=light-dark(#36393D,#572B2B);align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);fillColor=light-dark(#CDEB8B,#572B2B);strokeWidth=8;" parent="1" edge="1">
-          <mxGeometry x="-0.0111" relative="1" as="geometry">
+          <mxGeometry x="0.0611" y="60" relative="1" as="geometry">
             <mxPoint x="-2" as="offset" />
             <mxPoint x="1983.83" y="2800" as="sourcePoint" />
             <mxPoint x="1429.996666666667" y="2800" as="targetPoint" />
