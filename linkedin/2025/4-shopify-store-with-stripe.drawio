@@ -1,241 +1,226 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15" version="26.2.14">
   <diagram name="Page-1" id="UPiAZLYLy2CkkOvZXcHj">
-    <mxGraphModel dx="3784" dy="2856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+    <mxGraphModel dx="3784" dy="2608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5miELfbbJMKruTsYyYmL-1" value="Kamran &#xa;(Customer)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=103;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=35;rounded=1;fontColor=light-dark(#000000,#9999FF);labelBackgroundColor=none;fillColor=light-dark(#FFFFFF,#000000);strokeColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="116" y="585" width="340" height="2150" as="geometry" />
+        <mxCell id="5miELfbbJMKruTsYyYmL-1" value="Kamran &#xa;(Customer)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=280;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=75;rounded=1;fontColor=light-dark(#000000,#9999FF);labelBackgroundColor=none;fillColor=light-dark(#FFFFFF,#000000);strokeColor=default;align=center;verticalAlign=middle;glass=0;resizable=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="10" y="350" width="504" height="2620" as="geometry" />
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-2" value="Shopify Store" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=101;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=35;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontColor=light-dark(#000000,#9999FF);fillColor=light-dark(#FFFFFF,#000000);labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="686" y="575" width="312" height="2150" as="geometry" />
+        <mxCell id="5miELfbbJMKruTsYyYmL-2" value="Shopify Store" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=270;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=75;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontColor=light-dark(#000000,#9999FF);fillColor=light-dark(#FFFFFF,#000000);labelBackgroundColor=none;glass=0;resizable=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="686" y="350" width="444" height="2610" as="geometry" />
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-3" value="Shopify Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=104;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=35;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontColor=light-dark(#000000,#9999FF);fillColor=light-dark(#FFFFFF,#000000);labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1232" y="560" width="188" height="2160" as="geometry" />
+        <mxCell id="5miELfbbJMKruTsYyYmL-3" value="Shopify Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=270;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=75;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontColor=light-dark(#000000,#9999FF);fillColor=light-dark(#FFFFFF,#000000);labelBackgroundColor=none;glass=0;resizable=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1232" y="350" width="408" height="2600" as="geometry" />
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-4" value="Stripe API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=95;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=35;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontColor=light-dark(#000000,#9999FF);fillColor=light-dark(#FFFFFF,#000000);labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1896" y="552" width="253" height="2168" as="geometry" />
+        <mxCell id="5miELfbbJMKruTsYyYmL-4" value="Stripe API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=240;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=75;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontColor=light-dark(#000000,#9999FF);fillColor=light-dark(#FFFFFF,#000000);labelBackgroundColor=none;glass=0;resizable=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1830" y="360" width="319" height="2610" as="geometry" />
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-5" value="Card Network / Bank" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=104;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=35;sketch=1;curveFitting=1;jiggle=2;rounded=1;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=default;align=center;verticalAlign=middle;fontColor=light-dark(#000000,#9999FF);fillColor=light-dark(#FFFFFF,#000000);labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2416" y="555" width="468" height="2175" as="geometry" />
+        <mxCell id="5miELfbbJMKruTsYyYmL-5" value="Card Network / Bank" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=230;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;sketch=1;curveFitting=1;jiggle=2;rounded=1;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=default;align=center;verticalAlign=middle;fontColor=light-dark(#000000,#9999FF);fillColor=light-dark(#FFFFFF,#000000);labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2270" y="360" width="704" height="2610" as="geometry" />
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-6" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=31;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="276" y="1950" width="2374" height="785" as="geometry" />
+        <mxCell id="5miELfbbJMKruTsYyYmL-6" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=31;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="250" y="2090" width="2373" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-7" value="[Case a: Payment Approved]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=31;" vertex="1" parent="5miELfbbJMKruTsYyYmL-6">
-          <mxGeometry x="54.53292496171519" width="2319.4670750382857" height="29.961832061068705" as="geometry" />
+        <mxCell id="5miELfbbJMKruTsYyYmL-7" value="[Case a: Payment Approved]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=50;fontColor=light-dark(#000000,#00FF00);" parent="5miELfbbJMKruTsYyYmL-6" vertex="1">
+          <mxGeometry x="54.50995405819299" width="2318.490045941808" height="33.587786259541986" as="geometry" />
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-8" value="[Case b: Payment Declined]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=31;" vertex="1" parent="5miELfbbJMKruTsYyYmL-6">
-          <mxGeometry y="318.24769702909015" width="2374.0000000000005" height="5.992366412213741" as="geometry" />
+        <mxCell id="5miELfbbJMKruTsYyYmL-8" value="[Case b: Payment Declined]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=50;fontColor=light-dark(#000000,#FF0080);" parent="5miELfbbJMKruTsYyYmL-6" vertex="1">
+          <mxGeometry x="6.5" y="410" width="2360" height="83.24" as="geometry" />
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-11" value="2. Request checkout&#xa; session" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=31;shape=flexArrow;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeColor=light-dark(#36393D,#182E44);strokeWidth=8;align=center;fontColor=default;fillColor=#CCE5FF;" edge="1" parent="1" source="5miELfbbJMKruTsYyYmL-2" target="5miELfbbJMKruTsYyYmL-3">
-          <mxGeometry x="-0.0154" y="-30" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1122" y="925" />
-            </Array>
+        <mxCell id="5miELfbbJMKruTsYyYmL-11" value="2. Request &#xa;checkout&#xa; session" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=50;shape=flexArrow;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeColor=light-dark(#36393D,#182E44);strokeWidth=8;align=center;fontColor=default;fillColor=#CCE5FF;" parent="1" edge="1">
+          <mxGeometry x="-0.0328" y="-80" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="904.5" y="810" as="sourcePoint" />
+            <mxPoint x="1430" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5miELfbbJMKruTsYyYmL-12" value="3. Create &#xa;Payment Intent " style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=50;shape=flexArrow;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeColor=light-dark(#36393D,#182E44);strokeWidth=8;align=center;fontColor=default;fillColor=#CCE5FF;" parent="1" edge="1">
+          <mxGeometry x="-0.0045" y="-70" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+            <mxPoint x="1432.5" y="890" as="sourcePoint" />
+            <mxPoint x="1990" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5miELfbbJMKruTsYyYmL-13" value="Return client&#xa; secret" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=50;shape=flexArrow;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeColor=light-dark(#36393D,#182E44);strokeWidth=8;align=center;fontColor=default;fillColor=#CCE5FF;" parent="1" edge="1">
+          <mxGeometry x="-0.0111" y="60" relative="1" as="geometry">
+            <mxPoint x="1983.83" y="1140" as="sourcePoint" />
+            <mxPoint x="1429.996666666667" y="1140" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-12" value="3. Create Payment Intent &#xa;with idempotency key" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=31;shape=flexArrow;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeColor=light-dark(#36393D,#182E44);strokeWidth=8;align=center;fontColor=default;fillColor=#CCE5FF;" edge="1" parent="1" source="5miELfbbJMKruTsYyYmL-3" target="5miELfbbJMKruTsYyYmL-4">
-          <mxGeometry x="0.0014" relative="1" as="geometry">
+        <mxCell id="5miELfbbJMKruTsYyYmL-14" value="Embed client&#xa; secret" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=50;shape=flexArrow;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeColor=light-dark(#36393D,#182E44);strokeWidth=8;align=center;fontColor=default;fillColor=#CCE5FF;" parent="1" edge="1">
+          <mxGeometry x="0.0429" y="55" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <mxPoint x="1438.33" y="1200" as="sourcePoint" />
+            <mxPoint x="909.996666666667" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5miELfbbJMKruTsYyYmL-16" value="5. Enter payment&#xa; details" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=50;shape=flexArrow;strokeColor=default;align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;fillColor=default;" parent="1" edge="1">
+          <mxGeometry x="-0.057" y="-60" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1432" y="1035" />
+              <mxPoint x="792.83" y="1390" />
+            </Array>
+            <mxPoint x="249.99666666666698" y="1390" as="sourcePoint" />
+            <mxPoint x="907.5" y="1390" as="targetPoint" />
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5miELfbbJMKruTsYyYmL-17" value="6. Submit payment method" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=50;shape=flexArrow;strokeColor=default;align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);fillColor=default;strokeWidth=8;" parent="1" edge="1">
+          <mxGeometry x="-0.0682" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1292" y="1440" />
             </Array>
             <mxPoint as="offset" />
+            <mxPoint x="907.166666666667" y="1440" as="sourcePoint" />
+            <mxPoint x="1989" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-13" value="Return client secret" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=31;shape=flexArrow;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeColor=light-dark(#36393D,#182E44);strokeWidth=8;align=center;fontColor=default;fillColor=#CCE5FF;" edge="1" parent="1" source="5miELfbbJMKruTsYyYmL-4" target="5miELfbbJMKruTsYyYmL-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1442" y="1135" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-14" value="Embed client&#xa; secret" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=31;shape=flexArrow;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeColor=light-dark(#36393D,#182E44);strokeWidth=8;align=center;fontColor=default;fillColor=#CCE5FF;" edge="1" parent="1" source="5miELfbbJMKruTsYyYmL-3" target="5miELfbbJMKruTsYyYmL-2">
-          <mxGeometry x="0.0154" y="30" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1112" y="1195" />
-            </Array>
+        <mxCell id="5miELfbbJMKruTsYyYmL-18" value="8. Click &quot;Pay Now&quot;" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=50;shape=flexArrow;strokeColor=default;align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;curved=0;fillColor=default;" parent="1" edge="1">
+          <mxGeometry x="-0.0098" relative="1" as="geometry">
             <mxPoint as="offset" />
+            <mxPoint x="249.99666666666695" y="1600" as="sourcePoint" />
+            <mxPoint x="896.33" y="1600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-16" value="5. Enter payment&#xa; details" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=31;shape=flexArrow;strokeColor=default;align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);" edge="1" parent="1" source="5miELfbbJMKruTsYyYmL-1">
-          <mxGeometry x="-0.0509" y="-11" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="804" y="1395" />
-            </Array>
-            <mxPoint x="613" y="1395" as="sourcePoint" />
-            <mxPoint x="836" y="1395" as="targetPoint" />
+        <mxCell id="5miELfbbJMKruTsYyYmL-19" value="Confirm &#xa;payment" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=50;shape=flexArrow;strokeColor=default;align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;curved=0;fillColor=default;" parent="1" edge="1">
+          <mxGeometry x="-0.1186" y="-18" relative="1" as="geometry">
+            <mxPoint x="907.166666666667" y="1682" as="sourcePoint" />
+            <mxPoint x="1435.5" y="1682" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5miELfbbJMKruTsYyYmL-21" value="11. Request payment &#xa;authorization" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=50;shape=flexArrow;strokeColor=default;align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;curved=0;fillColor=default;" parent="1" edge="1">
+          <mxGeometry x="0.0113" relative="1" as="geometry">
             <mxPoint as="offset" />
+            <mxPoint x="1988.586666666667" y="1960" as="sourcePoint" />
+            <mxPoint x="2621.42" y="1960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-17" value="6. Submit payment method" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=31;shape=flexArrow;strokeColor=default;align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);" edge="1" parent="1" source="5miELfbbJMKruTsYyYmL-2" target="5miELfbbJMKruTsYyYmL-4">
-          <mxGeometry x="-0.0103" y="-10" relative="1" as="geometry">
+        <mxCell id="5miELfbbJMKruTsYyYmL-22" value="12. Respond &#xa;with &#xa;approval / decline" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=50;shape=flexArrow;strokeColor=default;align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;fillColor=default;" parent="1" edge="1">
+          <mxGeometry x="0.0118" y="75" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1292" y="1475" />
+              <mxPoint x="2267.25" y="2086" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint x="-1" as="offset" />
+            <mxPoint x="2622.75" y="2086" as="sourcePoint" />
+            <mxPoint x="1987.25" y="2086" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-18" value="8. Click &quot;Pay Now&quot;" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=31;shape=flexArrow;strokeColor=default;align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);" edge="1" parent="1" source="5miELfbbJMKruTsYyYmL-1" target="5miELfbbJMKruTsYyYmL-2">
-          <mxGeometry x="-0.0509" y="-6" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="812" y="1605" />
-            </Array>
-            <mxPoint as="offset" />
+        <mxCell id="5miELfbbJMKruTsYyYmL-23" value="14. Payment &#xa;successful &#xa;event" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=50;shape=flexArrow;strokeColor=light-dark(#36393D,#203A00);align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);fillColor=#CDEB8B;strokeWidth=8;" parent="1" edge="1">
+          <mxGeometry x="0.1159" y="150" relative="1" as="geometry">
+            <mxPoint x="1989" y="2200" as="sourcePoint" />
+            <mxPoint x="1435.166666666667" y="2200" as="targetPoint" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-19" value="Confirm payment" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=31;shape=flexArrow;strokeColor=default;align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);" edge="1" parent="1" source="5miELfbbJMKruTsYyYmL-2" target="5miELfbbJMKruTsYyYmL-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1102" y="1655" />
-            </Array>
+        <mxCell id="5miELfbbJMKruTsYyYmL-24" value="15. Update order&#xa; status" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=50;shape=flexArrow;strokeColor=light-dark(#36393D,#203A00);align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;fillColor=#CDEB8B;" parent="1" edge="1">
+          <mxGeometry x="0.0536" y="60" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+            <mxPoint x="1438.33" y="2270" as="sourcePoint" />
+            <mxPoint x="909.996666666667" y="2270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-20" value="9. Confirm Payment Intent &#xa;with idempotency key" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=31;shape=flexArrow;strokeColor=default;align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);" edge="1" parent="1" source="5miELfbbJMKruTsYyYmL-57" target="5miELfbbJMKruTsYyYmL-4">
-          <mxGeometry x="-0.0136" y="-21" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1428" y="1725" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-21" value="11. Request payment authorization" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=31;shape=flexArrow;strokeColor=default;align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);" edge="1" parent="1" source="5miELfbbJMKruTsYyYmL-4" target="5miELfbbJMKruTsYyYmL-5">
-          <mxGeometry x="0.0101" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2296" y="1825" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-22" value="12. Respond with approval / decline" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=31;shape=flexArrow;strokeColor=default;align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);" edge="1" parent="1" source="5miELfbbJMKruTsYyYmL-5" target="5miELfbbJMKruTsYyYmL-4">
-          <mxGeometry x="-0.0101" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2266" y="1915" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-23" value="14. Payment successful event" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=31;shape=flexArrow;strokeColor=light-dark(#36393D,#203A00);align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);fillColor=#CDEB8B;strokeWidth=8;" edge="1" parent="1" source="5miELfbbJMKruTsYyYmL-4" target="5miELfbbJMKruTsYyYmL-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1432" y="2085" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-24" value="15. Update order status" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=31;shape=flexArrow;strokeColor=light-dark(#36393D,#203A00);align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;fillColor=#CDEB8B;" edge="1" parent="1" source="5miELfbbJMKruTsYyYmL-3" target="5miELfbbJMKruTsYyYmL-2">
-          <mxGeometry x="-0.0014" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1092" y="2125" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-25" value="Display success page" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=31;shape=flexArrow;strokeColor=light-dark(#36393D,#203A00);align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;fillColor=#CDEB8B;" edge="1" parent="1" source="5miELfbbJMKruTsYyYmL-2" target="5miELfbbJMKruTsYyYmL-1">
+        <mxCell id="5miELfbbJMKruTsYyYmL-25" value="Display success page" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=50;shape=flexArrow;strokeColor=light-dark(#36393D,#203A00);align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;fillColor=#CDEB8B;" parent="1" edge="1">
           <mxGeometry x="0.005" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="606" y="2155" />
+              <mxPoint x="606" y="2320" />
             </Array>
             <mxPoint as="offset" />
+            <mxPoint x="907.5" y="2320" as="sourcePoint" />
+            <mxPoint x="258.5" y="2320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-26" value="16. Send confirmation email" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=31;shape=flexArrow;strokeColor=light-dark(#36393D,#203A00);align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;fillColor=#CDEB8B;" edge="1" parent="1" source="5miELfbbJMKruTsYyYmL-3" target="5miELfbbJMKruTsYyYmL-1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="5miELfbbJMKruTsYyYmL-26" value="16. Send confirmation&#xa; email" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=50;shape=flexArrow;strokeColor=light-dark(#36393D,#203A00);align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;fillColor=#CDEB8B;" parent="1" edge="1">
+          <mxGeometry x="0.0144" y="70" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="932" y="2235" />
+              <mxPoint x="933.5" y="2450" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint x="-1" as="offset" />
+            <mxPoint x="1437" y="2450" as="sourcePoint" />
+            <mxPoint x="260" y="2450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-27" value="18. Payment failed event" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=31;shape=flexArrow;strokeColor=light-dark(#36393D,#572B2B);align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);fillColor=light-dark(#CDEB8B,#572B2B);strokeWidth=8;" edge="1" parent="1" source="5miELfbbJMKruTsYyYmL-4" target="5miELfbbJMKruTsYyYmL-3">
-          <mxGeometry x="0.0012" relative="1" as="geometry">
+        <mxCell id="5miELfbbJMKruTsYyYmL-27" value="18. Payment failed&#xa; event" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=50;shape=flexArrow;strokeColor=light-dark(#36393D,#572B2B);align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);fillColor=light-dark(#CDEB8B,#572B2B);strokeWidth=8;" parent="1" edge="1">
+          <mxGeometry x="-0.0111" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+            <mxPoint x="1983.83" y="2800" as="sourcePoint" />
+            <mxPoint x="1429.996666666667" y="2800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5miELfbbJMKruTsYyYmL-28" value="19. Show &#xa;payment error" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=50;shape=flexArrow;strokeColor=light-dark(#36393D,#572B2B);align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;fillColor=light-dark(#CDEB8B,#572B2B);" parent="1" edge="1">
+          <mxGeometry x="-0.1369" y="55" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1438.33" y="2820" as="sourcePoint" />
+            <mxPoint x="909.996666666667" y="2820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5miELfbbJMKruTsYyYmL-29" value="20. Request &#xa;different&#xa; method" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=50;shape=flexArrow;strokeColor=light-dark(#36393D,#572B2B);align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;fillColor=light-dark(#CDEB8B,#572B2B);" parent="1" edge="1">
+          <mxGeometry x="0.0899" y="90" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1431" y="2395" />
+              <mxPoint x="811.5" y="2850" />
             </Array>
+            <mxPoint x="840.5" y="2850" as="sourcePoint" />
+            <mxPoint x="290" y="2850" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-28" value="19. Show &#xa;payment error" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=31;shape=flexArrow;strokeColor=light-dark(#36393D,#572B2B);align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;fillColor=light-dark(#CDEB8B,#572B2B);" edge="1" parent="1" source="5miELfbbJMKruTsYyYmL-3" target="5miELfbbJMKruTsYyYmL-2">
-          <mxGeometry x="0.0154" y="30" relative="1" as="geometry">
+        <mxCell id="5miELfbbJMKruTsYyYmL-30" value="4. Status: requires &#xa;payment method" style="fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=55;rounded=1;glass=0;dashed=1;dashPattern=12 12;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="2020" y="830" width="570" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="5miELfbbJMKruTsYyYmL-31" value="7. Status: &#xa;requires_confirmation" style="fillColor=#eeeeee;strokeColor=#36393d;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=50;rounded=1;dashed=1;dashPattern=12 12;glass=0;align=center;verticalAlign=middle;fontColor=default;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2000" y="1450" width="610" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5miELfbbJMKruTsYyYmL-32" value="10. Status: processing" style="fillColor=#eeeeee;strokeColor=#36393d;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=50;rounded=1;dashed=1;dashPattern=12 12;glass=0;align=center;verticalAlign=middle;fontColor=default;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2005.5" y="1700" width="604.5" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="5miELfbbJMKruTsYyYmL-33" value="13. Status: &#xa;succeeded" style="fillColor=#60a917;strokeColor=#2D7600;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=50;rounded=1;dashed=1;dashPattern=12 12;fontColor=#ffffff;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="2050" y="2260" width="470" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5miELfbbJMKruTsYyYmL-34" value="17. Status: requires &#xa;payment method" style="fillColor=#e51400;strokeColor=#B20000;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=50;rounded=1;dashed=1;dashPattern=12 12;fillStyle=solid;align=center;verticalAlign=middle;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="2001" y="2600" width="589" height="152.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5miELfbbJMKruTsYyYmL-52" value="Display Payment&#xa; Form" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=50;shape=flexArrow;strokeColor=light-dark(#36393D,#182E44);align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;fillColor=#CCE5FF;" parent="1" edge="1">
+          <mxGeometry x="0.0018" y="40" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1092" y="2475" />
+              <mxPoint x="856" y="1230" />
             </Array>
+            <mxPoint x="900" y="1230" as="sourcePoint" />
+            <mxPoint x="258.5" y="1230" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-29" value="20. Request different&#xa; payment method" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=31;shape=flexArrow;strokeColor=light-dark(#36393D,#572B2B);align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;fillColor=light-dark(#CDEB8B,#572B2B);" edge="1" parent="1">
-          <mxGeometry x="0.016" y="30" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="807" y="2605" />
-            </Array>
-            <mxPoint x="836" y="2605" as="sourcePoint" />
-            <mxPoint x="285.5" y="2605" as="targetPoint" />
+        <mxCell id="5miELfbbJMKruTsYyYmL-53" value="1. Adds items to &#xa;cart and&#xa;Proceeds to &#xa;checkout&#xa;" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=50;shape=flexArrow;strokeColor=light-dark(#36393D,#182E44);align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;fillColor=#CCE5FF;" parent="1" edge="1">
+          <mxGeometry x="0.0175" y="-240" relative="1" as="geometry">
+            <mxPoint x="261.16666666666697" y="730" as="sourcePoint" />
+            <mxPoint x="907.5" y="730" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-30" value="4. Status: requires_payment_method" style="fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=31;rounded=1;glass=0;dashed=1;dashPattern=12 12;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="2046" y="995" width="590" height="132" as="geometry" />
+        <mxCell id="5miELfbbJMKruTsYyYmL-55" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="20" y="60" width="2880" height="202" as="geometry" />
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-31" value="7. Status: requires_confirmation" style="fillColor=#eeeeee;strokeColor=#36393d;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=31;rounded=1;dashed=1;dashPattern=12 12;glass=0;align=center;verticalAlign=middle;fontColor=default;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2066" y="1455" width="570" height="130" as="geometry" />
+        <mxCell id="5miELfbbJMKruTsYyYmL-48" value="&lt;div&gt;&lt;font style=&quot;font-size: 86px;&quot;&gt;When Kamran clicks &quot;&lt;span style=&quot;color: rgb(255, 0, 128);&quot;&gt;Pay Now&lt;/span&gt;&quot; on a Shopify store&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=45;fontColor=default;" parent="5miELfbbJMKruTsYyYmL-55" vertex="1">
+          <mxGeometry x="39.97405001168499" width="2641.0441318064964" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-32" value="10. Status: processing" style="fillColor=#eeeeee;strokeColor=#36393d;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=31;rounded=1;dashed=1;dashPattern=12 12;glass=0;align=center;verticalAlign=middle;fontColor=default;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2086" y="1665" width="500" height="108" as="geometry" />
-        </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-33" value="13. Status: succeeded" style="fillColor=#cdeb8b;strokeColor=#36393d;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=31;rounded=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="2086" y="1995" width="470" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-34" value="17. Status: requires_payment_method" style="fillColor=#FFCCCC;strokeColor=#36393d;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=31;rounded=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="2047" y="2292.5" width="589" height="152.5" as="geometry" />
-        </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-52" value="Display Payment Form" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=31;shape=flexArrow;strokeColor=light-dark(#36393D,#182E44);align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;fillColor=#CCE5FF;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="792" y="1265" />
-            </Array>
-            <mxPoint x="836" y="1265" as="sourcePoint" />
-            <mxPoint x="276" y="1265" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-53" value="1. Adds items to cart&#xa;and&#xa;Proceeds to checkout&#xa;" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=31;shape=flexArrow;strokeColor=light-dark(#36393D,#182E44);align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;fillColor=#CCE5FF;" edge="1" parent="1">
-          <mxGeometry x="-0.0508" y="-80" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="804" y="795" />
-            </Array>
-            <mxPoint x="286" y="795" as="sourcePoint" />
-            <mxPoint x="836" y="795" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-55" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="180" y="270" width="2740" height="202" as="geometry" />
-        </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-48" value="&lt;div&gt;&lt;font style=&quot;font-size: 86px;&quot;&gt;When Kamran clicks &quot;&lt;span style=&quot;color: rgb(255, 0, 128);&quot;&gt;Pay Now&lt;/span&gt;&quot; on a Shopify store&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=45;fontColor=default;" vertex="1" parent="5miELfbbJMKruTsYyYmL-55">
-          <mxGeometry x="38.030867025005854" width="2512.660042065903" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-50" value="" style="shape=link;html=1;rounded=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=31;fontColor=default;width=0;strokeColor=light-dark(#000000,#76B7AC);strokeWidth=8;" edge="1" parent="5miELfbbJMKruTsYyYmL-55">
+        <mxCell id="5miELfbbJMKruTsYyYmL-50" value="" style="shape=link;html=1;rounded=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=31;fontColor=default;width=0;strokeColor=light-dark(#000000,#76B7AC);strokeWidth=8;" parent="5miELfbbJMKruTsYyYmL-55" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint y="170" as="sourcePoint" />
             <mxPoint as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-49" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(118, 183, 172));&quot;&gt;System Design Engineer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=60;fontColor=default;strokeColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="5miELfbbJMKruTsYyYmL-55">
-          <mxGeometry x="2010.0018181818184" y="160" width="707.4181818181819" height="92" as="geometry" />
+        <mxCell id="5miELfbbJMKruTsYyYmL-49" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(118, 183, 172));&quot;&gt;System Design&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(118, 183, 172));&quot;&gt;Engineer&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=60;fontColor=default;strokeColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="5miELfbbJMKruTsYyYmL-55" vertex="1">
+          <mxGeometry x="2170.002641008627" y="130" width="743.5636363636364" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-56" style="edgeStyle=elbowEdgeStyle;shape=flexArrow;curved=0;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=bottom;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=25;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);endArrow=block;" edge="1" parent="5miELfbbJMKruTsYyYmL-55" source="5miELfbbJMKruTsYyYmL-49" target="5miELfbbJMKruTsYyYmL-49">
+        <mxCell id="5miELfbbJMKruTsYyYmL-56" style="edgeStyle=elbowEdgeStyle;shape=flexArrow;curved=0;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=bottom;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=25;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);endArrow=block;" parent="5miELfbbJMKruTsYyYmL-55" source="5miELfbbJMKruTsYyYmL-49" target="5miELfbbJMKruTsYyYmL-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-58" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=31;shape=flexArrow;strokeColor=default;align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);" edge="1" parent="1" source="5miELfbbJMKruTsYyYmL-3" target="5miELfbbJMKruTsYyYmL-57">
-          <mxGeometry x="-0.0136" y="-21" relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1323" y="1725" as="sourcePoint" />
-            <mxPoint x="2022" y="1725" as="targetPoint" />
-            <mxPoint as="offset" />
+        <mxCell id="JcDtLwDXdDTiXMyq6mNi-2" value="9. Confirm &#xa;payment&#xa;Intent" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=50;shape=flexArrow;strokeColor=default;align=center;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);strokeWidth=8;curved=0;fillColor=default;" edge="1" parent="1">
+          <mxGeometry x="-0.1186" y="-88" relative="1" as="geometry">
+            <mxPoint x="1449.996666666667" y="1740" as="sourcePoint" />
+            <mxPoint x="1978.33" y="1740" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5miELfbbJMKruTsYyYmL-57" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeColor=light-dark(#9E916F,#FFFF00);align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=25;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);fillColor=none;strokeWidth=11;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="95" width="2915.64" height="2810" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
