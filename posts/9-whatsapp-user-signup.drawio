@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15" version="26.2.14">
   <diagram name="Page-1" id="kw5tApQOLxetqISVFKjF">
-    <mxGraphModel dx="1128" dy="1879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+    <mxGraphModel dx="3756" dy="3668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,51 @@
         </mxCell>
         <mxCell id="RP1mrb15_0kgAFn6U0BM-31" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(118, 183, 172)); font-size: 80px;&quot;&gt;System Design Engineer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=60;fontColor=default;strokeColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2270" y="270" width="707.42" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="nRWd147tkp-kQ7Whm1Z9-2" value="1. Phone Number Input" style="whiteSpace=wrap;strokeWidth=5;dashed=1;dashPattern=12 12;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=solid;fontSize=75;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="970" height="194" as="geometry" />
+        </mxCell>
+        <mxCell id="nRWd147tkp-kQ7Whm1Z9-3" value="2. OTP Generation" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="680" width="774.5" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="nRWd147tkp-kQ7Whm1Z9-4" value="3. OTP Delivery" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="600" y="980" width="753.5" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="nRWd147tkp-kQ7Whm1Z9-5" value="4. User Profile Creation" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1260" width="1182" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="nRWd147tkp-kQ7Whm1Z9-6" value="5. Encryption Key Generation" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1590" width="1440" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="nRWd147tkp-kQ7Whm1Z9-7" value="6. Profile Setup" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1950" width="950" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="nRWd147tkp-kQ7Whm1Z9-8" value="7. WebSocket Connection" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="370" y="2250" width="1199" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="nRWd147tkp-kQ7Whm1Z9-9" value="8. Two-Step Verification" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="2670" width="1181" height="214" as="geometry" />
+        </mxCell>
+        <mxCell id="nRWd147tkp-kQ7Whm1Z9-10" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;fillStyle=solid;strokeColor=#b85450;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f8cecc;shape=flexArrow;sketch=1;curveFitting=1;jiggle=2;flowAnimation=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="nRWd147tkp-kQ7Whm1Z9-2" target="nRWd147tkp-kQ7Whm1Z9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRWd147tkp-kQ7Whm1Z9-11" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;fillStyle=solid;strokeColor=#b85450;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f8cecc;shape=flexArrow;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="nRWd147tkp-kQ7Whm1Z9-3" target="nRWd147tkp-kQ7Whm1Z9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRWd147tkp-kQ7Whm1Z9-12" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;fillStyle=solid;strokeColor=#b85450;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f8cecc;shape=flexArrow;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="nRWd147tkp-kQ7Whm1Z9-4" target="nRWd147tkp-kQ7Whm1Z9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRWd147tkp-kQ7Whm1Z9-13" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;fillStyle=solid;strokeColor=#b85450;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f8cecc;shape=flexArrow;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="nRWd147tkp-kQ7Whm1Z9-5" target="nRWd147tkp-kQ7Whm1Z9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRWd147tkp-kQ7Whm1Z9-14" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;fillStyle=solid;strokeColor=#b85450;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f8cecc;shape=flexArrow;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="nRWd147tkp-kQ7Whm1Z9-6" target="nRWd147tkp-kQ7Whm1Z9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRWd147tkp-kQ7Whm1Z9-15" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;fillStyle=solid;strokeColor=#b85450;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f8cecc;shape=flexArrow;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="nRWd147tkp-kQ7Whm1Z9-7" target="nRWd147tkp-kQ7Whm1Z9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRWd147tkp-kQ7Whm1Z9-16" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;fillStyle=solid;strokeColor=#b85450;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f8cecc;shape=flexArrow;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="nRWd147tkp-kQ7Whm1Z9-8" target="nRWd147tkp-kQ7Whm1Z9-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
