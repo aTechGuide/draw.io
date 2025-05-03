@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RP1mrb15_0kgAFn6U0BM-28" value="&lt;div&gt;&lt;font&gt;When Kamran loads &quot;&lt;font color=&quot;#ff80ee&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 128, 238);&quot;&gt;timeline&lt;/span&gt;&lt;/font&gt;&quot; on X (Twitter)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=110;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="RP1mrb15_0kgAFn6U0BM-28" value="&lt;div&gt;&lt;font&gt;When Kamran &quot;&lt;font color=&quot;#ff80ee&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 128, 238);&quot;&gt;Sign Up&lt;/span&gt;&lt;/font&gt;&quot; on WhatsApp&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=110;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="168.03" y="100" width="2751.97" height="96.33" as="geometry" />
         </mxCell>
         <mxCell id="RP1mrb15_0kgAFn6U0BM-29" value="" style="shape=link;html=1;rounded=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=31;fontColor=default;width=0;strokeColor=light-dark(#000000,#76B7AC);strokeWidth=8;" parent="1" edge="1">
@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RP1mrb15_0kgAFn6U0BM-31" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(118, 183, 172)); font-size: 80px;&quot;&gt;System Design Engineer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=60;fontColor=default;strokeColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="2270" y="270" width="707.42" height="280" as="geometry" />
+          <mxGeometry x="2230" y="234" width="707.42" height="280" as="geometry" />
         </mxCell>
         <mxCell id="nRWd147tkp-kQ7Whm1Z9-2" value="1. Phone Number Input" style="whiteSpace=wrap;strokeWidth=5;dashed=1;dashPattern=12 12;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=solid;fontSize=75;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;" vertex="1" parent="1">
           <mxGeometry x="560" y="320" width="970" height="194" as="geometry" />
