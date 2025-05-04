@@ -65,7 +65,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="10 Flow" id="u9AXaScE4TjIE-Hu-d14">
-    <mxGraphModel dx="5616" dy="2740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+    <mxGraphModel dx="4572" dy="3372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
       <root>
         <mxCell id="P5GDUHR9ORlQU1ZmoaOM-0" />
         <mxCell id="P5GDUHR9ORlQU1ZmoaOM-1" parent="P5GDUHR9ORlQU1ZmoaOM-0" />
@@ -120,25 +120,25 @@
         <mxCell id="P5GDUHR9ORlQU1ZmoaOM-18" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;fillStyle=solid;strokeColor=#b85450;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f8cecc;shape=flexArrow;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8 8;flowAnimation=1;flowAnimationDuration=200;gradientColor=none;flowAnimationTimingFunction=ease-in-out;" edge="1" parent="P5GDUHR9ORlQU1ZmoaOM-1" source="P5GDUHR9ORlQU1ZmoaOM-10" target="P5GDUHR9ORlQU1ZmoaOM-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V_BcupfvFw1bAyB9ygvo-0" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#FF6A00;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=middle;align=center;outlineConnect=0;shape=mxgraph.veeam2.scale_out_backup_repository;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
+        <mxCell id="V_BcupfvFw1bAyB9ygvo-0" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;fillColor=#FF6A00;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=middle;align=center;outlineConnect=0;shape=mxgraph.veeam2.scale_out_backup_repository;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=8;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
           <mxGeometry x="120" y="580" width="180" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="V_BcupfvFw1bAyB9ygvo-2" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#0080F0;fillColor=light-dark(#FF6A00,#446E2C);labelPosition=center;verticalLabelPosition=bottom;verticalAlign=middle;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu_socket;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;labelBackgroundColor=#ffffff;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
+        <mxCell id="V_BcupfvFw1bAyB9ygvo-2" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#0080F0;fillColor=light-dark(#FF6A00,#446E2C);labelPosition=center;verticalLabelPosition=bottom;verticalAlign=middle;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu_socket;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=8;labelBackgroundColor=#ffffff;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
           <mxGeometry x="2790" y="880" width="170" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="V_BcupfvFw1bAyB9ygvo-3" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.apigateway;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
+        <mxCell id="V_BcupfvFw1bAyB9ygvo-3" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=light-dark(#FF6A00,#446E2C);strokeColor=#0080F0;shape=mxgraph.alibaba_cloud.apigateway;pointerEvents=1;strokeWidth=8;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=#ffffff;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
           <mxGeometry x="120" y="1190" width="155.4" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="V_BcupfvFw1bAyB9ygvo-4" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.messages;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#FF6A00,#446E2C);" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
+        <mxCell id="V_BcupfvFw1bAyB9ygvo-4" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=8;strokeColor=light-dark(#000000,#32A0FF);shadow=0;dashed=0;shape=mxgraph.ios7.icons.messages;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FF6A00;gradientColor=none;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
           <mxGeometry x="2790" y="1530" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="V_BcupfvFw1bAyB9ygvo-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=middle;align=center;html=1;shape=mxgraph.aws3.data_encryption_key;fillColor=#FF6A00;gradientColor=none;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
+        <mxCell id="V_BcupfvFw1bAyB9ygvo-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=middle;align=center;html=1;shape=mxgraph.aws3.data_encryption_key;fillColor=#FF6A00;gradientColor=none;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=8;strokeColor=light-dark(#000000,#32A0FF);" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
           <mxGeometry x="168.03" y="1920" width="140" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="V_BcupfvFw1bAyB9ygvo-6" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=light-dark(#FF6A00,#446E2C);strokeColor=#0080F0;shape=mxgraph.alibaba_cloud.cdn_content_distribution_network;strokeWidth=2;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=#ffffff;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
+        <mxCell id="V_BcupfvFw1bAyB9ygvo-6" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=light-dark(#FF6A00,#446E2C);strokeColor=#0080F0;shape=mxgraph.alibaba_cloud.cdn_content_distribution_network;strokeWidth=8;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=#ffffff;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
           <mxGeometry x="2800" y="2380" width="168.79" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="V_BcupfvFw1bAyB9ygvo-7" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=middle;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FF6A00;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
+        <mxCell id="V_BcupfvFw1bAyB9ygvo-7" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=middle;shadow=0;dashed=0;strokeWidth=8;shape=mxgraph.ios7.misc.iphone;strokeColor=#0080F0;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#FF6A00,#446E2C);pointerEvents=1;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
           <mxGeometry x="147.7" y="2750" width="100" height="170" as="geometry" />
         </mxCell>
       </root>
