@@ -269,7 +269,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JCJBYArWJWWkb6H_kQHC-15" value="Auth&lt;div&gt;Service&lt;/div&gt;" style="sketch=1;outlineConnect=0;fontColor=default;gradientColor=none;fillColor=light-dark(#FFFFFF,#1A1A1A);strokeColor=default;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=75;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ec2_aws_microservice_extractor_for_net;shadow=0;jiggle=2;curveFitting=1;strokeWidth=5;spacing=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;labelBorderColor=none;labelBackgroundColor=none;labelPosition=center;fillStyle=solid;" vertex="1" parent="JCJBYArWJWWkb6H_kQHC-1">
-          <mxGeometry x="1690" y="950" width="330" height="330" as="geometry" />
+          <mxGeometry x="1690" y="850" width="330" height="330" as="geometry" />
         </mxCell>
         <mxCell id="JCJBYArWJWWkb6H_kQHC-16" value="" style="group" vertex="1" connectable="0" parent="JCJBYArWJWWkb6H_kQHC-1">
           <mxGeometry x="130" y="100" width="2790" height="210" as="geometry" />
@@ -290,10 +290,10 @@
           <mxGeometry x="250" y="1870" width="126.28" height="250" as="geometry" />
         </mxCell>
         <mxCell id="iE9oBrMSewCxHUhsBsiu-5" value="Message&lt;div&gt;Service&lt;/div&gt;" style="sketch=1;outlineConnect=0;fontColor=default;gradientColor=none;fillColor=light-dark(#FFFFFF,#1A1A1A);strokeColor=default;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=75;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ec2_aws_microservice_extractor_for_net;shadow=0;jiggle=2;curveFitting=1;strokeWidth=5;spacing=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;labelBorderColor=none;labelBackgroundColor=none;labelPosition=center;fillStyle=solid;" vertex="1" parent="JCJBYArWJWWkb6H_kQHC-1">
-          <mxGeometry x="1690" y="1600" width="330" height="330" as="geometry" />
+          <mxGeometry x="1690" y="1540" width="330" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="iE9oBrMSewCxHUhsBsiu-6" value="Notification&lt;div&gt;Service&lt;/div&gt;" style="sketch=1;outlineConnect=0;fontColor=default;gradientColor=none;fillColor=light-dark(#FFFFFF,#1A1A1A);strokeColor=default;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=75;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ec2_aws_microservice_extractor_for_net;shadow=0;jiggle=2;curveFitting=1;strokeWidth=5;spacing=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;labelBorderColor=none;labelBackgroundColor=none;labelPosition=center;fillStyle=solid;" vertex="1" parent="JCJBYArWJWWkb6H_kQHC-1">
-          <mxGeometry x="1690" y="2330" width="330" height="330" as="geometry" />
+        <mxCell id="iE9oBrMSewCxHUhsBsiu-6" value="Notification&lt;div&gt;Service&lt;/div&gt;" style="sketch=1;outlineConnect=0;fontColor=default;gradientColor=none;fillColor=light-dark(#FFFFFF,#1A1A1A);strokeColor=default;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=75;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ec2_aws_microservice_extractor_for_net;shadow=0;jiggle=2;curveFitting=1;strokeWidth=5;spacing=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;labelBorderColor=none;labelBackgroundColor=none;labelPosition=center;fillStyle=solid;" vertex="1" parent="JCJBYArWJWWkb6H_kQHC-1">
+          <mxGeometry x="1700" y="2220" width="330" height="330" as="geometry" />
         </mxCell>
         <mxCell id="iE9oBrMSewCxHUhsBsiu-9" value="" style="startArrow=block;endArrow=none;rounded=1;fillStyle=solid;strokeColor=#b85450;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f8cecc;shape=flexArrow;flowAnimation=1;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8 8;gradientColor=none;flowAnimationDuration=200;startFill=0;" edge="1" parent="JCJBYArWJWWkb6H_kQHC-1">
           <mxGeometry relative="1" as="geometry">
@@ -336,6 +336,17 @@
             <Array as="points">
               <mxPoint x="313" y="1545" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE9oBrMSewCxHUhsBsiu-16" value="" style="startArrow=none;endArrow=block;rounded=1;fillStyle=solid;strokeColor=#b85450;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f8cecc;shape=flexArrow;flowAnimation=1;dashed=1;dashPattern=8 8;gradientColor=none;flowAnimationDuration=200;startFill=0;" edge="1" parent="JCJBYArWJWWkb6H_kQHC-1" source="iE9oBrMSewCxHUhsBsiu-5" target="iE9oBrMSewCxHUhsBsiu-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="1670" as="sourcePoint" />
+            <mxPoint x="1947" y="2095" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE9oBrMSewCxHUhsBsiu-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iE9oBrMSewCxHUhsBsiu-16">
+          <mxGeometry x="-0.87" y="1" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
