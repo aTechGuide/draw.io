@@ -326,7 +326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="11 HLD" id="uF15q7PqKzQ6kvslgJbd">
-    <mxGraphModel dx="4140" dy="3028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+    <mxGraphModel dx="4168" dy="3028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
       <root>
         <mxCell id="JCJBYArWJWWkb6H_kQHC-0" />
         <mxCell id="JCJBYArWJWWkb6H_kQHC-1" parent="JCJBYArWJWWkb6H_kQHC-0" />
@@ -421,7 +421,7 @@
         <mxCell id="iE9oBrMSewCxHUhsBsiu-11" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Distributed&amp;nbsp;&lt;div&gt;Queue&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=1;fillColor=light-dark(#FFFFFF,#333333);strokeColor=default;shape=mxgraph.alibaba_cloud.kafka;dashPattern=12 12;sketch=1;jiggle=2;curveFitting=1;strokeWidth=5;verticalAlign=top;spacing=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;labelBorderColor=none;labelBackgroundColor=none;gradientColor=none;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" parent="JCJBYArWJWWkb6H_kQHC-1">
           <mxGeometry x="2405" y="1890" width="380" height="281.49" as="geometry" />
         </mxCell>
-        <mxCell id="iE9oBrMSewCxHUhsBsiu-12" value="" style="startArrow=none;endArrow=block;rounded=1;fillStyle=solid;strokeColor=#b85450;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f8cecc;shape=flexArrow;flowAnimation=1;dashed=1;dashPattern=8 8;gradientColor=none;flowAnimationDuration=200;" edge="1" parent="JCJBYArWJWWkb6H_kQHC-1" target="iE9oBrMSewCxHUhsBsiu-11">
+        <mxCell id="iE9oBrMSewCxHUhsBsiu-12" value="" style="startArrow=none;endArrow=block;rounded=1;fillStyle=solid;strokeColor=#b85450;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f8cecc;shape=flexArrow;flowAnimation=1;dashed=1;dashPattern=8 8;gradientColor=none;flowAnimationDuration=200;" edge="1" parent="JCJBYArWJWWkb6H_kQHC-1" source="iE9oBrMSewCxHUhsBsiu-5" target="iE9oBrMSewCxHUhsBsiu-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2030" y="1653" as="sourcePoint" />
             <mxPoint x="2420" y="1364" as="targetPoint" />
