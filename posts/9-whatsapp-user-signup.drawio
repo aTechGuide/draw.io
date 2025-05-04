@@ -349,14 +349,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JCJBYArWJWWkb6H_kQHC-11" value="Web Socket" style="startArrow=block;endArrow=block;rounded=1;fillStyle=solid;strokeColor=#b85450;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSize=75;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#000000);fillColor=#f8cecc;flowAnimation=1;dashed=1;dashPattern=8 8;gradientColor=none;flowAnimationDuration=200;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;edgeStyle=orthogonalEdgeStyle;shape=flexArrow;" edge="1" parent="JCJBYArWJWWkb6H_kQHC-1" source="JCJBYArWJWWkb6H_kQHC-19" target="JCJBYArWJWWkb6H_kQHC-5">
-          <mxGeometry x="-0.2516" y="-33" relative="1" as="geometry">
+          <mxGeometry x="-0.4472" y="67" relative="1" as="geometry">
             <mxPoint x="140" y="1030" as="sourcePoint" />
             <mxPoint x="650" y="856" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="163" y="1160" />
-              <mxPoint x="915" y="1160" />
+              <mxPoint x="203" y="1430" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JCJBYArWJWWkb6H_kQHC-15" value="Auth&lt;div&gt;Service&lt;/div&gt;" style="sketch=1;outlineConnect=0;fontColor=default;gradientColor=none;fillColor=light-dark(#FFFFFF,#1A1A1A);strokeColor=default;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=75;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ec2_aws_microservice_extractor_for_net;shadow=0;jiggle=2;curveFitting=1;strokeWidth=5;spacing=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;labelBorderColor=none;labelBackgroundColor=none;labelPosition=center;fillStyle=solid;" vertex="1" parent="JCJBYArWJWWkb6H_kQHC-1">
@@ -375,7 +374,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JCJBYArWJWWkb6H_kQHC-19" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Sender&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=1;verticalLabelPosition=top;sketch=0;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=default;fillColor=light-dark(#000000,#76B7AC);align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.mobile;gradientColor=none;curveFitting=1;jiggle=2;strokeWidth=10;labelBackgroundColor=none;fontSize=75;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;labelPosition=center;dashed=1;dashPattern=12 12;fontColor=light-dark(#000000,#CC99FF);" vertex="1" parent="JCJBYArWJWWkb6H_kQHC-1">
-          <mxGeometry x="100" y="710" width="126.28" height="250" as="geometry" />
+          <mxGeometry x="140" y="710" width="126.28" height="250" as="geometry" />
         </mxCell>
         <mxCell id="iE9oBrMSewCxHUhsBsiu-0" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Receiver&lt;/div&gt;" style="sketch=1;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=default;fillColor=light-dark(#000000,#76B7AC);align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.mobile;gradientColor=none;dashed=1;dashPattern=12 12;curveFitting=1;jiggle=2;strokeWidth=10;labelBackgroundColor=none;fontSize=75;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontColor=light-dark(#000000,#CC99FF);" vertex="1" parent="JCJBYArWJWWkb6H_kQHC-1">
           <mxGeometry x="140" y="2290" width="126.28" height="250" as="geometry" />
@@ -432,6 +431,7 @@
             <mxPoint x="210.0000000000002" y="1995.1999999999998" as="sourcePoint" />
             <mxPoint x="703.72" y="1545" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="203" y="1880" />
               <mxPoint x="203" y="1500" />
             </Array>
             <mxPoint as="offset" />
