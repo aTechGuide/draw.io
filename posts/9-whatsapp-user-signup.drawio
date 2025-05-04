@@ -228,7 +228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="11 Flow" id="DFea14370imycxpqqkC4">
-    <mxGraphModel dx="4144" dy="2892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+    <mxGraphModel dx="4744" dy="3208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
       <root>
         <mxCell id="7xyNMI6ROkWSgnTzkqOO-0" />
         <mxCell id="7xyNMI6ROkWSgnTzkqOO-1" parent="7xyNMI6ROkWSgnTzkqOO-0" />
@@ -300,9 +300,6 @@
         <mxCell id="7xyNMI6ROkWSgnTzkqOO-21" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=8;strokeColor=light-dark(#000000,#32A0FF);shadow=0;dashed=0;shape=mxgraph.ios7.icons.messages;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FF6A00;gradientColor=none;" vertex="1" parent="7xyNMI6ROkWSgnTzkqOO-1">
           <mxGeometry x="2790" y="1530" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="7xyNMI6ROkWSgnTzkqOO-22" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=middle;align=center;html=1;shape=mxgraph.aws3.data_encryption_key;fillColor=#FF6A00;gradientColor=none;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=8;strokeColor=light-dark(#000000,#32A0FF);" vertex="1" parent="7xyNMI6ROkWSgnTzkqOO-1">
-          <mxGeometry x="360" y="1530" width="140" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="oVNiA0JOrRxgGCNuG1tV-0" value="Recipient Status" style="rhombus;whiteSpace=wrap;html=1;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="7xyNMI6ROkWSgnTzkqOO-1">
           <mxGeometry x="1045" y="1820" width="910" height="600" as="geometry" />
         </mxCell>
@@ -320,6 +317,9 @@
         </mxCell>
         <mxCell id="7xyNMI6ROkWSgnTzkqOO-24" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=middle;shadow=0;dashed=0;strokeWidth=8;shape=mxgraph.ios7.misc.iphone;strokeColor=#0080F0;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#FF6A00,#446E2C);pointerEvents=1;" vertex="1" parent="7xyNMI6ROkWSgnTzkqOO-1">
           <mxGeometry x="68.03" y="2780" width="100" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="oVNiA0JOrRxgGCNuG1tV-8" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Content_Delivery_Network.svg;shadow=0;dashed=0;strokeColor=light-dark(#000000,#32A0FF);strokeWidth=8;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=#ffffff;fillColor=#FF6A00;gradientColor=none;imageBackground=default;" vertex="1" parent="7xyNMI6ROkWSgnTzkqOO-1">
+          <mxGeometry x="50" y="2150" width="320" height="147.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
