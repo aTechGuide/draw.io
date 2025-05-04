@@ -69,7 +69,7 @@
       <root>
         <mxCell id="P5GDUHR9ORlQU1ZmoaOM-0" />
         <mxCell id="P5GDUHR9ORlQU1ZmoaOM-1" parent="P5GDUHR9ORlQU1ZmoaOM-0" />
-        <mxCell id="P5GDUHR9ORlQU1ZmoaOM-2" value="&lt;div&gt;&lt;font&gt;When Kamran &quot;&lt;font color=&quot;#ff80ee&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 128, 238);&quot;&gt;Sign Up&lt;/span&gt;&lt;/font&gt;&quot; on WhatsApp&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=110;fontColor=default;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
+        <mxCell id="P5GDUHR9ORlQU1ZmoaOM-2" value="&lt;div&gt;&lt;font&gt;When Kamran tap &lt;font color=&quot;#b043a2&quot;&gt;&lt;span style=&quot;caret-color: rgb(176, 67, 162);&quot;&gt;Chats&lt;/span&gt;&lt;/font&gt;&amp;nbsp;Tab on WhatsApp&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=110;fontColor=default;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
           <mxGeometry x="168.03" y="100" width="2751.97" height="96.33" as="geometry" />
         </mxCell>
         <mxCell id="P5GDUHR9ORlQU1ZmoaOM-3" value="" style="shape=link;html=1;rounded=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=31;fontColor=default;width=0;strokeColor=light-dark(#000000,#76B7AC);strokeWidth=8;" edge="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
@@ -81,29 +81,26 @@
         <mxCell id="P5GDUHR9ORlQU1ZmoaOM-4" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(118, 183, 172)); font-size: 80px;&quot;&gt;System Design Engineer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=60;fontColor=default;strokeColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
           <mxGeometry x="2230" y="234" width="707.42" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="P5GDUHR9ORlQU1ZmoaOM-5" value="1. Phone Number Input" style="whiteSpace=wrap;strokeWidth=5;dashed=1;dashPattern=12 12;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=solid;fontSize=75;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
-          <mxGeometry x="560" y="320" width="970" height="194" as="geometry" />
+        <mxCell id="P5GDUHR9ORlQU1ZmoaOM-5" value="1. Check Local SQLite DB" style="whiteSpace=wrap;strokeWidth=5;dashed=1;dashPattern=12 12;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=solid;fontSize=75;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
+          <mxGeometry x="200" y="470" width="1170" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="P5GDUHR9ORlQU1ZmoaOM-6" value="2. OTP Generation" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
-          <mxGeometry x="1420" y="680" width="774.5" height="184" as="geometry" />
+        <mxCell id="P5GDUHR9ORlQU1ZmoaOM-6" value="2. Establish WebSocket Connection" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
+          <mxGeometry x="1420" y="760" width="1490" height="164" as="geometry" />
         </mxCell>
-        <mxCell id="P5GDUHR9ORlQU1ZmoaOM-7" value="3. OTP Delivery" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
-          <mxGeometry x="600" y="980" width="753.5" height="154" as="geometry" />
+        <mxCell id="P5GDUHR9ORlQU1ZmoaOM-7" value="3. API Gateway Request" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
+          <mxGeometry x="200" y="1090" width="1153.5" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="P5GDUHR9ORlQU1ZmoaOM-8" value="4. User Profile Creation" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
-          <mxGeometry x="1350" y="1260" width="1182" height="170" as="geometry" />
+        <mxCell id="P5GDUHR9ORlQU1ZmoaOM-8" value="4. Fetch temporary messages" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
+          <mxGeometry x="1360" y="1410" width="1560" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="P5GDUHR9ORlQU1ZmoaOM-9" value="5. Encryption Key Generation" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
-          <mxGeometry x="370" y="1590" width="1440" height="170" as="geometry" />
+        <mxCell id="P5GDUHR9ORlQU1ZmoaOM-9" value="5. Apply E2E Encryption" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
+          <mxGeometry x="200" y="1800" width="1610" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="P5GDUHR9ORlQU1ZmoaOM-10" value="6. Profile Setup" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
-          <mxGeometry x="1400" y="1950" width="950" height="174" as="geometry" />
+        <mxCell id="P5GDUHR9ORlQU1ZmoaOM-10" value="6. Load Media from CDN" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
+          <mxGeometry x="1400" y="2240" width="1510" height="174" as="geometry" />
         </mxCell>
-        <mxCell id="P5GDUHR9ORlQU1ZmoaOM-11" value="7. WebSocket Connection" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
-          <mxGeometry x="370" y="2250" width="1199" height="234" as="geometry" />
-        </mxCell>
-        <mxCell id="P5GDUHR9ORlQU1ZmoaOM-12" value="8. Two-Step Verification" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
-          <mxGeometry x="1420" y="2670" width="1181" height="214" as="geometry" />
+        <mxCell id="P5GDUHR9ORlQU1ZmoaOM-11" value="7. Update UI" style="whiteSpace=wrap;strokeWidth=5;rounded=1;dashed=1;dashPattern=12 12;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="P5GDUHR9ORlQU1ZmoaOM-1">
+          <mxGeometry x="200" y="2660" width="1199" height="184" as="geometry" />
         </mxCell>
         <mxCell id="P5GDUHR9ORlQU1ZmoaOM-13" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;fillStyle=solid;strokeColor=#b85450;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f8cecc;shape=flexArrow;sketch=1;curveFitting=1;jiggle=2;flowAnimation=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="P5GDUHR9ORlQU1ZmoaOM-1" source="P5GDUHR9ORlQU1ZmoaOM-5" target="P5GDUHR9ORlQU1ZmoaOM-6">
           <mxGeometry relative="1" as="geometry" />
@@ -121,9 +118,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P5GDUHR9ORlQU1ZmoaOM-18" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;fillStyle=solid;strokeColor=#b85450;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f8cecc;shape=flexArrow;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="P5GDUHR9ORlQU1ZmoaOM-1" source="P5GDUHR9ORlQU1ZmoaOM-10" target="P5GDUHR9ORlQU1ZmoaOM-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="P5GDUHR9ORlQU1ZmoaOM-19" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;fillStyle=solid;strokeColor=#b85450;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f8cecc;shape=flexArrow;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="P5GDUHR9ORlQU1ZmoaOM-1" source="P5GDUHR9ORlQU1ZmoaOM-11" target="P5GDUHR9ORlQU1ZmoaOM-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
