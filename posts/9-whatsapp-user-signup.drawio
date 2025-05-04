@@ -337,7 +337,7 @@
           <mxGeometry x="2222.58" y="320" width="707.42" height="280" as="geometry" />
         </mxCell>
         <mxCell id="JCJBYArWJWWkb6H_kQHC-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;API&amp;nbsp;&lt;div&gt;Gateway&lt;/div&gt;&lt;div&gt;&amp;amp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Load Balancer&lt;/div&gt;" style="outlineConnect=0;dashed=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=light-dark(#FFFFFF,#333333);gradientColor=none;strokeColor=default;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;labelBackgroundColor=none;strokeWidth=5;fillStyle=solid;sketch=1;curveFitting=1;jiggle=2;dashPattern=12 12;labelPosition=center;" vertex="1" parent="JCJBYArWJWWkb6H_kQHC-1">
-          <mxGeometry x="710" y="1200" width="410" height="440" as="geometry" />
+          <mxGeometry x="710" y="1290" width="410" height="440" as="geometry" />
         </mxCell>
         <mxCell id="JCJBYArWJWWkb6H_kQHC-6" value="&#xa;Distributed&#xa;Database" style="sketch=1;shadow=0;dashed=1;strokeColor=default;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_mini_2;fillColor=light-dark(#FFFFFF,#333333);fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=75;fontColor=default;labelBackgroundColor=none;gradientColor=none;labelBorderColor=none;spacing=0;strokeWidth=5;curveFitting=1;jiggle=2;dashPattern=12 12;" vertex="1" parent="JCJBYArWJWWkb6H_kQHC-1">
           <mxGeometry x="2380" y="970" width="430" height="370" as="geometry" />
@@ -388,10 +388,10 @@
         </mxCell>
         <mxCell id="iE9oBrMSewCxHUhsBsiu-9" value="" style="startArrow=block;endArrow=none;rounded=1;fillStyle=solid;strokeColor=#b85450;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f8cecc;shape=flexArrow;flowAnimation=1;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8 8;gradientColor=none;flowAnimationDuration=200;startFill=0;" edge="1" parent="JCJBYArWJWWkb6H_kQHC-1" target="iE9oBrMSewCxHUhsBsiu-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="2130" as="sourcePoint" />
-            <mxPoint x="1487" y="2435" as="targetPoint" />
+            <mxPoint x="880" y="2190" as="sourcePoint" />
+            <mxPoint x="1860" y="2495.2" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="880" y="2435" />
+              <mxPoint x="880" y="2400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -432,7 +432,7 @@
             <mxPoint x="210.0000000000002" y="1995.1999999999998" as="sourcePoint" />
             <mxPoint x="703.72" y="1545" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="203" y="1440" />
+              <mxPoint x="203" y="1500" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -454,8 +454,7 @@
             <mxPoint x="1830" y="2035" as="targetPoint" />
             <mxPoint x="1" as="offset" />
             <Array as="points">
-              <mxPoint x="1120" y="1720" />
-              <mxPoint x="1830" y="1720" />
+              <mxPoint x="1830" y="1670" />
               <mxPoint x="1830" y="1635" />
             </Array>
           </mxGeometry>
