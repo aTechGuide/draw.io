@@ -228,7 +228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="11 Flow" id="DFea14370imycxpqqkC4">
-    <mxGraphModel dx="4168" dy="3028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+    <mxGraphModel dx="3292" dy="3028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
       <root>
         <mxCell id="7xyNMI6ROkWSgnTzkqOO-0" />
         <mxCell id="7xyNMI6ROkWSgnTzkqOO-1" parent="7xyNMI6ROkWSgnTzkqOO-0" />
@@ -307,9 +307,6 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oVNiA0JOrRxgGCNuG1tV-4" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=default;fillColor=light-dark(#FF6A00,#446E2C);strokeColor=#0080F0;dashed=0;verticalLabelPosition=bottom;verticalAlign=middle;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;shadow=0;pointerEvents=1;strokeWidth=8;fontFamily=Helvetica;labelBackgroundColor=#ffffff;" vertex="1" parent="7xyNMI6ROkWSgnTzkqOO-1">
-          <mxGeometry x="2712" y="2720" width="208" height="208" as="geometry" />
-        </mxCell>
         <mxCell id="7xyNMI6ROkWSgnTzkqOO-24" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=middle;shadow=0;dashed=0;strokeWidth=8;shape=mxgraph.ios7.misc.iphone;strokeColor=#0080F0;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#FF6A00,#446E2C);pointerEvents=1;" vertex="1" parent="7xyNMI6ROkWSgnTzkqOO-1">
           <mxGeometry x="68.03" y="2780" width="100" height="170" as="geometry" />
         </mxCell>
@@ -321,6 +318,9 @@
             <mxPoint x="30" y="250" as="sourcePoint" />
             <mxPoint x="30" y="100" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-A5plv0nM4AbKPvbGRrj-0" value="" style="strokeWidth=8;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;shadow=0;dashed=0;pointerEvents=1;strokeColor=#0080F0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=#ffffff;fillColor=light-dark(#FF6A00,#446E2C);" vertex="1" parent="7xyNMI6ROkWSgnTzkqOO-1">
+          <mxGeometry x="2750" y="2736" width="140" height="158" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
