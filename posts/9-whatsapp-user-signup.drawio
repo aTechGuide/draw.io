@@ -326,7 +326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="11 HLD" id="uF15q7PqKzQ6kvslgJbd">
-    <mxGraphModel dx="4168" dy="3028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+    <mxGraphModel dx="3292" dy="3028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
       <root>
         <mxCell id="JCJBYArWJWWkb6H_kQHC-0" />
         <mxCell id="JCJBYArWJWWkb6H_kQHC-1" parent="JCJBYArWJWWkb6H_kQHC-0" />
