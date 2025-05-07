@@ -735,13 +735,13 @@
       <root>
         <mxCell id="TiEofwiwcL5k0hfbgSYz-0" />
         <mxCell id="TiEofwiwcL5k0hfbgSYz-1" parent="TiEofwiwcL5k0hfbgSYz-0" />
-        <mxCell id="TiEofwiwcL5k0hfbgSYz-2" value="&lt;div&gt;&lt;font&gt;When Kamran &quot;&lt;font color=&quot;#ff80ee&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 128, 238);&quot;&gt;Sign Up&lt;/span&gt;&lt;/font&gt;&quot; on WhatsApp&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=110;fontColor=default;" vertex="1" parent="TiEofwiwcL5k0hfbgSYz-1">
+        <mxCell id="TiEofwiwcL5k0hfbgSYz-2" value="&lt;div&gt;&lt;font&gt;When Kamran &lt;font color=&quot;#b043a2&quot;&gt;&lt;span style=&quot;caret-color: rgb(176, 67, 162);&quot;&gt;Created&lt;/span&gt;&lt;/font&gt;&amp;nbsp;Tech Smashers group on WhatsApp&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=110;fontColor=default;" vertex="1" parent="TiEofwiwcL5k0hfbgSYz-1">
           <mxGeometry x="168.03" y="100" width="2751.97" height="96.33" as="geometry" />
         </mxCell>
         <mxCell id="TiEofwiwcL5k0hfbgSYz-3" value="" style="shape=link;html=1;rounded=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=31;fontColor=default;width=0;strokeColor=light-dark(#000000,#76B7AC);strokeWidth=8;" edge="1" parent="TiEofwiwcL5k0hfbgSYz-1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="130" y="196.33333333333331" as="sourcePoint" />
-            <mxPoint x="130" y="100" as="targetPoint" />
+            <mxPoint x="130" y="280" as="sourcePoint" />
+            <mxPoint x="130" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TiEofwiwcL5k0hfbgSYz-4" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(118, 183, 172)); font-size: 80px;&quot;&gt;System Design Engineer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=60;fontColor=default;strokeColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="TiEofwiwcL5k0hfbgSYz-1">
