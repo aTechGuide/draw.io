@@ -1114,8 +1114,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="15-flow-signs-up" id="tStA5O_8cYPBsuh3ux8t">
-    <mxGraphModel dx="3784" dy="2744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+  <diagram name="15-signs-up-flow" id="tStA5O_8cYPBsuh3ux8t">
+    <mxGraphModel dx="4744" dy="3344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
       <root>
         <mxCell id="c-ipsByN0WnkdnbSZK6i-0" />
         <mxCell id="c-ipsByN0WnkdnbSZK6i-1" parent="c-ipsByN0WnkdnbSZK6i-0" />
