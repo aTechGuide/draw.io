@@ -1119,7 +1119,7 @@
       <root>
         <mxCell id="c-ipsByN0WnkdnbSZK6i-0" />
         <mxCell id="c-ipsByN0WnkdnbSZK6i-1" parent="c-ipsByN0WnkdnbSZK6i-0" />
-        <mxCell id="c-ipsByN0WnkdnbSZK6i-2" value="&lt;div&gt;&lt;font&gt;Kamran &lt;font color=&quot;#b043a2&quot;&gt;&lt;span style=&quot;caret-color: rgb(176, 67, 162);&quot;&gt;Signs Up&lt;/span&gt;&lt;/font&gt;&amp;nbsp;on Instagram&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=170;fontColor=default;" vertex="1" parent="c-ipsByN0WnkdnbSZK6i-1">
+        <mxCell id="c-ipsByN0WnkdnbSZK6i-2" value="&lt;div&gt;&lt;font&gt;Kamran &lt;font color=&quot;#b043a2&quot;&gt;&lt;span style=&quot;caret-color: rgb(176, 67, 162);&quot;&gt;Signs Up&lt;/span&gt;&lt;/font&gt;&amp;nbsp;on &lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 153, 51));&quot;&gt;Instagram&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=170;fontColor=default;" vertex="1" parent="c-ipsByN0WnkdnbSZK6i-1">
           <mxGeometry x="168.03" y="100" width="2751.97" height="96.33" as="geometry" />
         </mxCell>
         <mxCell id="c-ipsByN0WnkdnbSZK6i-3" value="" style="shape=link;html=1;rounded=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=31;fontColor=default;width=0;strokeColor=light-dark(#000000,#76B7AC);strokeWidth=8;" edge="1" parent="c-ipsByN0WnkdnbSZK6i-1">
