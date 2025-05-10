@@ -1129,7 +1129,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c-ipsByN0WnkdnbSZK6i-4" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(118, 183, 172)); font-size: 80px;&quot;&gt;System Design Engineer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=60;fontColor=default;strokeColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="c-ipsByN0WnkdnbSZK6i-1">
-          <mxGeometry x="2230" y="234" width="707.42" height="280" as="geometry" />
+          <mxGeometry x="2280" y="280" width="707.42" height="280" as="geometry" />
         </mxCell>
         <mxCell id="c-ipsByN0WnkdnbSZK6i-5" value="App Launch" style="whiteSpace=wrap;strokeWidth=5;dashed=1;dashPattern=12 12;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;fontSize=90;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontColor=light-dark(#000000,#FF66FF);align=center;verticalAlign=middle;" vertex="1" parent="c-ipsByN0WnkdnbSZK6i-1">
           <mxGeometry x="190" y="440" width="970" height="190" as="geometry" />
