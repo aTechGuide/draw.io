@@ -1832,7 +1832,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w2QWLqnOaz6LNbtvaYWQ-20" value="5 Process&#xa;Interactive &#xa;elements" style="startArrow=none;endArrow=block;rounded=1;fillStyle=solid;strokeColor=#82b366;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSize=65;fontColor=light-dark(#000000,#FFFF00);labelBackgroundColor=light-dark(#FFFFFF,#1D293B);fillColor=#d5e8d4;shape=flexArrow;flowAnimation=1;dashed=1;dashPattern=12 12;gradientColor=none;flowAnimationDuration=200;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="w2QWLqnOaz6LNbtvaYWQ-1" target="w2QWLqnOaz6LNbtvaYWQ-21">
-          <mxGeometry x="-0.5218" relative="1" as="geometry">
+          <mxGeometry x="-0.4493" relative="1" as="geometry">
             <mxPoint x="1640" y="1562" as="sourcePoint" />
             <mxPoint x="1650" y="940" as="targetPoint" />
             <Array as="points">
@@ -1920,7 +1920,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="95jexF3GCljbd46uXU58-12" value="&#xa;API &#xa;Gateway&#xa;&amp; LB" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=bottom;align=center;shape=mxgraph.aws3.api_gateway;fillColor=light-dark(#FFFFFF,#1A1A1A);gradientColor=none;strokeColor=default;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=65;fontColor=default;labelBackgroundColor=light-dark(#FFFFFF,#1D293B);strokeWidth=11;fillStyle=solid;sketch=1;curveFitting=1;jiggle=2;dashPattern=12 12;labelPosition=center;shadow=0;pointerEvents=1;spacing=0;fontStyle=0;labelBorderColor=none;" vertex="1" parent="95jexF3GCljbd46uXU58-1">
-          <mxGeometry x="810" y="1555" width="200" height="200" as="geometry" />
+          <mxGeometry x="870" y="1555" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="95jexF3GCljbd46uXU58-15" value="&lt;div&gt;Storage&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillStyle=solid;align=center;verticalAlign=top;fontFamily=Gloria Hallelujah;fontSize=75;fillColor=#e1d5e7;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;labelPosition=center;verticalLabelPosition=bottom;dashed=1;dashPattern=12 12;strokeWidth=5;fontColor=light-dark(#000000,#76B7AC);" vertex="1" parent="95jexF3GCljbd46uXU58-1">
           <mxGeometry x="2440" y="1390" width="460" height="1350" as="geometry" />
