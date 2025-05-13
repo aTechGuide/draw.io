@@ -1819,7 +1819,7 @@
         <mxCell id="7gzW-tl18RT8ZFks92bF-13" value="Media&#xa;Service" style="outlineConnect=0;fontColor=default;gradientColor=none;fillColor=light-dark(#FFFFFF,#1A1A1A);strokeColor=none;dashed=0;verticalLabelPosition=top;verticalAlign=middle;align=center;fontSize=55;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ec2_aws_microservice_extractor_for_net;shadow=0;strokeWidth=11;spacing=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;labelBorderColor=none;labelBackgroundColor=light-dark(#FFFFFF,#1D293B);labelPosition=center;fillStyle=solid;sketch=1;curveFitting=1;jiggle=2;horizontal=1;" vertex="1" parent="7gzW-tl18RT8ZFks92bF-1">
           <mxGeometry x="660" y="630" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7gzW-tl18RT8ZFks92bF-14" value="2 fetch&#xa;allowed&#xa;Audios" style="startArrow=none;endArrow=block;rounded=1;fillStyle=solid;strokeColor=#82b366;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSize=55;fontColor=light-dark(#000000,#FFFF00);labelBackgroundColor=light-dark(#FFFFFF,#1D293B);fillColor=#d5e8d4;shape=flexArrow;flowAnimation=1;dashed=1;dashPattern=12 12;gradientColor=none;flowAnimationDuration=200;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;" edge="1" parent="7gzW-tl18RT8ZFks92bF-1" target="7gzW-tl18RT8ZFks92bF-13">
+        <mxCell id="7gzW-tl18RT8ZFks92bF-14" value="2 fetch&#xa;Licensed&#xa;Audios" style="startArrow=none;endArrow=block;rounded=1;fillStyle=solid;strokeColor=#82b366;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSize=55;fontColor=light-dark(#000000,#FFFF00);labelBackgroundColor=light-dark(#FFFFFF,#1D293B);fillColor=#d5e8d4;shape=flexArrow;flowAnimation=1;dashed=1;dashPattern=12 12;gradientColor=none;flowAnimationDuration=200;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;" edge="1" parent="7gzW-tl18RT8ZFks92bF-1" target="7gzW-tl18RT8ZFks92bF-13">
           <mxGeometry x="0.3568" relative="1" as="geometry">
             <mxPoint x="1186" y="1555" as="sourcePoint" />
             <mxPoint x="870" y="1000" as="targetPoint" />
@@ -1926,6 +1926,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ro_PARbyYaPbJwK5-jG_-7" value="Untitled Layer" parent="7gzW-tl18RT8ZFks92bF-0" />
+        <mxCell id="Ro_PARbyYaPbJwK5-jG_-8" value="Untitled Layer" parent="7gzW-tl18RT8ZFks92bF-0" />
+        <mxCell id="Ro_PARbyYaPbJwK5-jG_-9" value="Untitled Layer" parent="7gzW-tl18RT8ZFks92bF-0" />
+        <mxCell id="Ro_PARbyYaPbJwK5-jG_-10" value="Untitled Layer" parent="7gzW-tl18RT8ZFks92bF-0" />
+        <mxCell id="Ro_PARbyYaPbJwK5-jG_-11" value="Untitled Layer" parent="7gzW-tl18RT8ZFks92bF-0" />
+        <mxCell id="Ro_PARbyYaPbJwK5-jG_-12" value="Untitled Layer" parent="7gzW-tl18RT8ZFks92bF-0" />
+        <mxCell id="Ro_PARbyYaPbJwK5-jG_-13" value="Untitled Layer" parent="7gzW-tl18RT8ZFks92bF-0" />
+        <mxCell id="Ro_PARbyYaPbJwK5-jG_-14" value="Untitled Layer" parent="7gzW-tl18RT8ZFks92bF-0" />
+        <mxCell id="Ro_PARbyYaPbJwK5-jG_-15" value="Untitled Layer" parent="7gzW-tl18RT8ZFks92bF-0" />
+        <mxCell id="Ro_PARbyYaPbJwK5-jG_-16" value="Untitled Layer" parent="7gzW-tl18RT8ZFks92bF-0" />
+        <mxCell id="Ro_PARbyYaPbJwK5-jG_-17" value="Untitled Layer" parent="7gzW-tl18RT8ZFks92bF-0" />
+        <mxCell id="Ro_PARbyYaPbJwK5-jG_-18" value="Untitled Layer" parent="7gzW-tl18RT8ZFks92bF-0" />
+        <mxCell id="Ro_PARbyYaPbJwK5-jG_-19" value="Untitled Layer" parent="7gzW-tl18RT8ZFks92bF-0" />
       </root>
     </mxGraphModel>
   </diagram>
