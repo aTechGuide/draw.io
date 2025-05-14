@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15" version="27.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15" version="27.0.5">
   <diagram name="Page-1" id="BpFGBteJm46t_yusKqQ4">
-    <mxGraphModel>
+    <mxGraphModel dx="3576" dy="3028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8jDypEb30w-cJy9j20Hk-1" value="Kamran&lt;div&gt;Search&lt;/div&gt;&lt;div&gt;Cat&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};treeFolding=1;treeMoving=1;fontSize=65;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="300" y="990" width="520" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="8jDypEb30w-cJy9j20Hk-7" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=default;strokeWidth=20;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="8jDypEb30w-cJy9j20Hk-4" target="8jDypEb30w-cJy9j20Hk-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1250" y="1850" />
+              <mxPoint x="1940" y="1790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8jDypEb30w-cJy9j20Hk-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8jDypEb30w-cJy9j20Hk-7">
+          <mxGeometry x="0.9387" y="-2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8jDypEb30w-cJy9j20Hk-4" value="LB" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontSize=65;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1130" width="400" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="8jDypEb30w-cJy9j20Hk-5" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;strokeWidth=20;" edge="1" target="8jDypEb30w-cJy9j20Hk-4" parent="1" source="8jDypEb30w-cJy9j20Hk-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1780" y="932" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8jDypEb30w-cJy9j20Hk-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=20;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;endArrow=none;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;curved=1;" edge="1" parent="1" source="8jDypEb30w-cJy9j20Hk-6" target="8jDypEb30w-cJy9j20Hk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8jDypEb30w-cJy9j20Hk-6" value="Search Service" style="whiteSpace=wrap;html=1;fontSize=65;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;rounded=1;arcSize=50;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1830" width="550" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="8jDypEb30w-cJy9j20Hk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=20;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;endArrow=none;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;curved=1;" edge="1" parent="1" source="8jDypEb30w-cJy9j20Hk-8" target="8jDypEb30w-cJy9j20Hk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8jDypEb30w-cJy9j20Hk-8" value="Index&amp;nbsp;&lt;div&gt;Service&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=65;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;rounded=1;arcSize=50;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="2190" width="440" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="8jDypEb30w-cJy9j20Hk-10" value="Index DB" style="ellipse;whiteSpace=wrap;html=1;fontSize=65;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;rounded=1;arcSize=50;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="1965" y="2310" width="415" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
